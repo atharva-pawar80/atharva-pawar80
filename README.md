@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Atharva%20Pawar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20MLOps%20%7C%20Cloud%20%26%20DevOps%20%7C%20Student&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Atharva%20Pawar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%2FML%20Engineer%20%7C%20MLOps%20%7C%20Cloud%20%26%20DevOps%20%7C%20Student&amp;descAlignY=55&amp;descSize=16" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/atharva-pawar80">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+%26+ML+systems+%F0%9F%A4%96;Shipping+models+to+prod+with+MLOps+%E2%9A%99%EF%B8%8F;Scaling+on+Cloud+%7C+AWS+%7C+GCP+%E2%98%81%EF%B8%8F;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6AD3F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+intelligent+AI+%26+ML+systems+%F0%9F%A4%96;Shipping+models+to+prod+with+MLOps+%E2%9A%99%EF%B8%8F;Scaling+on+Cloud+%7C+AWS+%7C+GCP+%E2%98%81%EF%B8%8F;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -68,17 +68,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharva-pawar80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-pawar80&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharva-pawar80&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-pawar80&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-pawar80&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-pawar80&amp;theme=tokyonight&amp;hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva-pawar80&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva-pawar80&amp;theme=tokyo-night&amp;hide_border=true" />
 </div>
 
 ---
@@ -99,6 +99,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atharva-pawar80&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
 
 </div>
