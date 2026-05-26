@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Atharva%20Pawar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Student&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Atharva%20Pawar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20MLOps%20%7C%20Cloud%20%26%20DevOps%20%7C%20Student&descAlignY=55&descSize=16" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/atharva-pawar80">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+systems+%F0%9F%A4%96;Automating+the+world+with+DevOps+%E2%9A%99%EF%B8%8F;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+%26+ML+systems+%F0%9F%A4%96;Shipping+models+to+prod+with+MLOps+%E2%9A%99%EF%B8%8F;Scaling+on+Cloud+%7C+AWS+%7C+GCP+%E2%98%81%EF%B8%8F;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,18 +16,12 @@
 
 - 🎓 **Student & Working Professional** — balancing studies with real-world impact
 - 🤖 **AI/ML Engineer** — building intelligent models and data pipelines
-- ☁️ **DevOps & Cloud** — automating deployments and scaling systems
+- ☁️ **Cloud & DevOps** — deploying, scaling and automating ML systems
+- 🔧 **MLOps** — bridging the gap between ML models and production
 - 🔭 Currently working on cutting-edge **ML & Cloud** projects
-- 🌱 Always learning — currently diving deep into **LLMs & MLOps**
+- 🌱 Always learning — currently diving deep into **LLMs, MLOps & JavaScript**
 - 📫 Reach me at: **[atharva-pawar80](https://github.com/atharva-pawar80)**
 - ⚡ Fun fact: I debug code at 2 AM and call it "productive flow"
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Current Role
-> *Details coming soon — stay tuned!*
 
 ---
 
@@ -35,9 +29,9 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌱 Currently Learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -85,14 +79,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva-pawar80&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharva-pawar80&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
