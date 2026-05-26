@@ -1,39 +1,32 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Atharva%20Pawar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%2FML%20Engineer%20%7C%20MLOps%20%7C%20Cloud%20%26%20DevOps%20%7C%20Student&amp;descAlignY=55&amp;descSize=16" />
-
-<!-- Typing SVG -->
-<a href="https://github.com/atharva-pawar80">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6AD3F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+intelligent+AI+%26+ML+systems+%F0%9F%A4%96;Shipping+models+to+prod+with+MLOps+%E2%9A%99%EF%B8%8F;Scaling+on+Cloud+%7C+AWS+%7C+GCP+%E2%98%81%EF%B8%8F;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Atharva%20Pawar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20MLOps%20%7C%20Cloud%20and%20DevOps%20%7C%20Student&descAlignY=55&descSize=16)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **Student & Working Professional** — balancing studies with real-world impact
+- 🎓 **Student and Working Professional** — balancing studies with real-world impact
 - 🤖 **AI/ML Engineer** — building intelligent models and data pipelines
-- ☁️ **Cloud & DevOps** — deploying, scaling and automating ML systems
+- ☁️ **Cloud and DevOps** — deploying, scaling and automating ML systems
 - 🔧 **MLOps** — bridging the gap between ML models and production
-- 🔭 Currently working on cutting-edge **ML & Cloud** projects
-- 🌱 Always learning — currently diving deep into **LLMs, MLOps & JavaScript**
+- 🔭 Currently working on cutting-edge **ML and Cloud** projects
+- 🌱 Always learning — currently diving deep into **LLMs, MLOps and JavaScript**
 - 📫 Reach me at: **[atharva-pawar80](https://github.com/atharva-pawar80)**
-- ⚡ Fun fact: I debug code at 2 AM and call it "productive flow"
+- ⚡ Fun fact: I debug code at 2 AM and call it productive flow
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌱 Currently Learning
+### Currently Learning
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 AI & Machine Learning
+### AI and Machine Learning
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -41,7 +34,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud and DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,13 +43,15 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🗄️ Databases
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ MLOps & Tools
+### MLOps and Tools
+
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![AWS SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -64,41 +60,24 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
+![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva-pawar80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharva-pawar80&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-pawar80&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-pawar80&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-pawar80&amp;theme=tokyonight&amp;hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva-pawar80&amp;theme=tokyo-night&amp;hide_border=true" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharva-pawar80&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-pawar80)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva-pawar80)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-</div>
-
 ---
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atharva-pawar80&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
